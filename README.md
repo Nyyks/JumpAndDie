@@ -4,6 +4,10 @@ At this Game is in a Prototype Status, at the moment it isn't a Game.
 I upload the Sourcecode when i'm done with the Project.
 
 ## Changelog
+### Version 1.8.5
+Fixed a Bug.
+
++You now respawn when you fall in the void.
 ### Version 1.8
 Fixed a Bug in the Pause Menu.
 
