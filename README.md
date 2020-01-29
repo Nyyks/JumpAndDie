@@ -4,6 +4,15 @@ At this Game is in a Prototype Status, at the moment it isn't a Game.
 I upload the Sourcecode when i'm done with the Project.
 
 ## Changelog
+### Version 3.0
++Added Spikes
+
++Added a Theme song
+
++Added more Levels, there are now 15 Levels.
+
+Changed the Main Menu.
+
 ### Version 2.0
 Fixed the Player Hitbox.
 
