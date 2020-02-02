@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class ToNextLevel : MonoBehaviour
 {
     private int nextSceneToLoad;
-
+   
 
     void Start()
     {

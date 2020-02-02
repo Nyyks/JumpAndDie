@@ -8,9 +8,11 @@ public class RespawnArea : MonoBehaviour
     public float minHeightForDeath;
     public GameObject player; //Add your player
 
+
     void Update()
     {
         if (player.transform.position.y < minHeightForDeath)
             player.transform.position = spawnPoint.position;
     }
+
 }

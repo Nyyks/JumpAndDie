@@ -1,7 +1,24 @@
 # JumpAndDie
-A simple Platformer for android Devices.
+A simple Platformer for android Devices with over 30 Levels.
+You can use the Sourcecode if you want.
 
 ## Changelog
+### Version 4.0
++Added a Pause Button.
+
++Added a Options Menu.
+
++Added an Autosave Feauture.
+
++Added a Version Number.
+
++Added 15 new Levels. (There are now 30 Levels in total.)
+
+Edited the Credits.
+
+Changed the Size of the Joystick.
+
+Fixed some Bugs.
 ### Version 3.0
 +Added Spikes
 
