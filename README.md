@@ -1,5 +1,5 @@
 # JumpAndDie
-A simple Platformer for android Devices with over 30 Levels.
+A simple Platformer for android, windows and web Devices with over 30 Levels.
 You can use the Sourcecode if you want.
 
 ## Changelog
